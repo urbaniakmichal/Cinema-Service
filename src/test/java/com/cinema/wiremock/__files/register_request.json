@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/user/register"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "register_response.json"
+  }
+}
